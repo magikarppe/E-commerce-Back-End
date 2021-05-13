@@ -28,7 +28,7 @@ This project usage is for anyone that needs a back-end for their front-end e-com
 - Step 1: Clone this repository
 - Step 2: Install dependencies with 'npm install'
 - Step 3: Type code .
-- Step 4: Create .env fil
+- Step 4: Create .env file
 - Step 5: Add credentials using DB_NAME = 'ecommerce_db', DB_USER, DB_PW
 - Step 6: Login to you mysql server and type 'source db/schema.sql
 - Step 7: (Optional) Type 'npm run seed' to create preset categories, tags, and products
